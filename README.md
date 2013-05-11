@@ -1,1 +1,1 @@
-Qcom opnesource FM Radio Libs
+Qcom opensource FM Radio Libs
